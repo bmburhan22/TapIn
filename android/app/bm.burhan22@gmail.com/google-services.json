@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "992329830264",
+    "project_id": "tapin-c8ac8",
+    "storage_bucket": "tapin-c8ac8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992329830264:android:951e781209642297f6c28d",
+        "android_client_info": {
+          "package_name": "com.example.tapin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992329830264-704rqrp08go35fs3psi50anvgr6i9u7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAay6sV4SbPLpuDgnxsTrsPkpyto26_heA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992329830264-704rqrp08go35fs3psi50anvgr6i9u7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992329830264-r6nvg9o1ut9ulaji524q70u55qm6ie08.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tapin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
